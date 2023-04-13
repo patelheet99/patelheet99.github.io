@@ -9,9 +9,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Video Recommendation System
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+with experience developing a Flask application incorporating machine learning algorithms that provide highly accurate video recommendations. I have successfully applied NLP-based clustering algorithms and preprocessed data using various techniques, resulting in improved processing time and meaningful insights extracted from large datasets.
 
 ## Header 2
 
