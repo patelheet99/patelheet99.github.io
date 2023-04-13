@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 developed a Flask application incorporating machine learning algorithms that provide highly accurate video recommendations. I have successfully applied NLP-based clustering algorithms and preprocessed data using various techniques, resulting in improved processing time and meaningful insights extracted from large datasets.
 
 ## Forecasting PM25 Particle
-Created a precise forecasting model utilizing FBProphet to predict Delhi's pm25 particle air pollution levels up to one year in advance, achieving an exceptional RMSE value of 0.010 through extensive analysis of data from the Delhi government. 
+Created a precise forecasting model utilizing FBProphet to predict Delhi's pm25 particle air pollution levels up to one year in advance, achieving an exceptional RMSE value of 0.010 through extensive analysis of data from the Delhi government.
 
 
 
