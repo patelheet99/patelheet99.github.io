@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+Selected projects in data science, machine learning and NLP
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
