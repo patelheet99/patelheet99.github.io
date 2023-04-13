@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Selected projects in data science, machine learning and NLP
+**Selected projects in data science, machine learning and NLP**
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
