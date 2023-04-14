@@ -22,7 +22,7 @@ Created a precise forecasting model utilizing FBProphet to predict Delhi's pm25 
 ## YELP Analyzer
 Implemented a comprehensive PowerBI dashboard utilizing Yelp dataset of 11GB and integrating with Databricks and Azure Datalake for effective data visualization, resulting in improved insights and decision-making capabilities. 
 
-![Python](https://img.shields.io/badge/Python-white?logo=Python) ![databricks](https://assets.stickpng.com/images/62c719b5b44be1961554a6de.png)
+![Python](https://img.shields.io/badge/Python-white?logo=Python) ![databricks](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)
 
 
 ## Facial Recognition-based Attendance System
