@@ -9,14 +9,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-**
 
 ## Video Recommendation System
-developed a Flask application incorporating machine learning algorithms that provide highly accurate video recommendations. I have successfully applied NLP-based clustering algorithms and preprocessed data using various techniques, resulting in improved processing time and meaningful insights extracted from large datasets.
-(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+developed a Flask application incorporating machine learning algorithms that provide highly accurate video recommendations. I have successfully applied NLP-based clustering algorithms and preprocessed data using various techniques, resulting in improved processing time and meaningful insights extracted from large datasets.  
+![Python](https://img.shields.io/badge/Python-white?logo=Python) ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)![sklearn](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)
 
 ## Forecasting PM25 Particle
 Created a precise forecasting model utilizing FBProphet to predict Delhi's pm25 particle air pollution levels up to one year in advance, achieving an exceptional RMSE value of 0.010 through extensive analysis of data from the Delhi government.Preprocessing of data includes handling missing values, distriution of data. For data visualization, lag plot and seasonal components were plotted. Model training was done using data driven methods, ARIMA, SARIMA and FBProphet.
+![Python](https://img.shields.io/badge/Python-white?logo=Python)
 
 ## YELP Analyzer
 Implemented a comprehensive PowerBI dashboard utilizing Yelp dataset of 11GB and integrating with Databricks and Azure Datalake for effective data visualization, resulting in improved insights and decision-making capabilities. 
