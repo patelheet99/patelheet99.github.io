@@ -16,10 +16,14 @@ developed a Flask application incorporating machine learning algorithms that pro
 
 ## Forecasting PM25 Particle
 Created a precise forecasting model utilizing FBProphet to predict Delhi's pm25 particle air pollution levels up to one year in advance, achieving an exceptional RMSE value of 0.010 through extensive analysis of data from the Delhi government.Preprocessing of data includes handling missing values, distriution of data. For data visualization, lag plot and seasonal components were plotted. Model training was done using data driven methods, ARIMA, SARIMA and FBProphet.
-![Python](https://img.shields.io/badge/Python-white?logo=Python)
+
+![Python](https://img.shields.io/badge/Python-white?logo=Python) ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=Jupyter) 
 
 ## YELP Analyzer
 Implemented a comprehensive PowerBI dashboard utilizing Yelp dataset of 11GB and integrating with Databricks and Azure Datalake for effective data visualization, resulting in improved insights and decision-making capabilities. 
+
+![Python](https://img.shields.io/badge/Python-white?logo=Python) ![databricks](https://assets.stickpng.com/images/62c719b5b44be1961554a6de.png)
+
 
 ## Facial Recognition-based Attendance System
 Designed an advanced attendance management system using TensorFlow and Tkinter that enables efficient and accurate attendance tracking. Achieved a measurable improvement in attendance management processes, resulting in a 40% increase in efficiency.
