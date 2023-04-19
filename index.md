@@ -1,14 +1,3 @@
----
-layout: default
----
-
-**Selected projects in data science, machine learning and NLP**
-<!-- [Link to another page](./another-page.html). -->
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 
 ## Video Recommendation System
 developed a Flask application incorporating machine learning algorithms that provide highly accurate video recommendations. I have successfully applied NLP-based clustering algorithms and preprocessed data using various techniques, resulting in improved processing time and meaningful insights extracted from large datasets.  
